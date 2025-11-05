@@ -5,7 +5,13 @@
 
 <p style="color:#999">※2018年2月以前の勉強会の情報は<a href="https://html5nagoya.connpass.com/">こちら</a>をご覧ください。</p>
 
+:seedling: 活動再開のお知らせ
 
+しばらくお休みしていましたが、NFUG は再び活動を再開します！
+名古屋のフロントエンドコミュニティとして、勉強会・もくもく会・LT会などをゆるやかに開催していく予定です。
+
+再開にあたり、会場を提供いただける企業・団体様を募集しています。
+過去には多くの企業様のご協力のもとで開催してきました。今後も新しい形でご一緒できる方をお待ちしています。
 
 <div style="margin-top: 100px"></div>
 ## 名古屋の企業・団体の支えで成り立っています！
@@ -13,15 +19,26 @@
 『フロントエンドもくもく会』をはじめとした、毎月行われている勉強会では、
 以下の企業・団体からの会場提供により成り立っています。
 
-* 株式会社Misoca ( https://info.misoca.jp/ )
-* 有限会社 来栖川電算 ( https://www.kurusugawa.jp/ )
-* 株式会社スタメン ( https://stmn.co.jp/ )
-* トビラシステムズ株式会社  ( https://tobila.com/ )
-* 株式会社カルテットコミュニケーションズ   ( https://quartet-communications.com/ )
-* ヤフー株式会社 ( https://www.yahoo.co.jp/ )
-* 株式会社PREVENT ( https://prevent.co.jp/ )
+:office_building: 以前ご協力いただいた企業・団体のみなさま
 
-（順不同、敬称略）
+これまでの活動では、以下の企業・団体様に会場をご提供いただきました。
+長年のご支援に心より感謝いたします。
+
+• 旧 株式会社Misoca ( https://info.misoca.jp/ )
+
+• 有限会社 来栖川電算 ( https://www.kurusugawa.jp/ )
+
+• 株式会社スタメン ( https://stmn.co.jp/ )
+
+• トビラシステムズ株式会社 ( https://tobila.com/ )
+
+• 株式会社カルテットコミュニケーションズ ( https://quartet-communications.com/ )
+
+• ヤフー株式会社 ( https://www.yahoo.co.jp/ )
+
+• 株式会社PREVENT ( https://prevent.co.jp/ )
+
+（順不同・敬称略）
 
 ### 常に会場候補は探しています！
 
@@ -70,7 +87,7 @@ https://join.slack.com/t/nfug/shared_invite/enQtMzAxNDA1NTM5MzQ1LTQ1ZGEyY2Y5OGEw
 
 ### Slack 以外の SNS もあるよ
 
-* [Twitter](https://twitter.com/nagoya_frontend)
+* [X](https://twitter.com/nagoya_frontend)
 * [Facebook](https://www.facebook.com/nagoya.frontend.ug)
 
 Slack 内でやりとりされている勉強会の情報をこちらにも流しています。
@@ -78,22 +95,6 @@ Slack 内でやりとりされている勉強会の情報をこちらにも流�
 勉強会の開催情報のみ受け取りたい方は、こちらもご利用ください。
 
 <div style="margin-top: 100px" id="infection_prevention"></div>
-### 感染予防対策のお願い
-
-- 当日や直前に発熱や風邪などの症状（咳など）がある場合、参加を控えるようお願いします。
-- 参加の際はマスクの着用・アルコール消毒・検温の実施をお願いします。
-    -  （会場に備え付けのアルコールがない可能性がありますので各自持参をお願いします。）
-- 大声の禁止
-- 長時間マスクを外しての飲食の禁止 
-    - 水分補給など短期間マスクを外すのはOK
-    - お菓子食べながらなど長期間マスク外すのはNG
-- 新型コロナウイルス接触確認アプリ（COCOA）のインストール
-
-
-参考
-愛知県「イベント開催時の必要な感染防止策等について」
-
-https://www.pref.aichi.jp/soshiki/bunka/event-infection-prevention.html
 
 
 <div style="margin-top: 100px" id="policy"></div>
